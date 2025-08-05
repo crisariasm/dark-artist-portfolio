@@ -16,6 +16,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
+      <head>
+        <link rel="icon" href="/favicon.png" type="image/png" />
+      </head>
       <body className="font-typewriter bg-black text-white min-h-screen">
         <Navbar />
         <main className="pt-20">{children}</main>
