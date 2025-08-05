@@ -42,11 +42,10 @@ export default function SobreMiPage() {
             </div>
           </div>
           <div className="relative">
-            <div className="absolute inset-0 bg-gradient-to-br from-electric-blue/20 to-transparent rounded-lg blur-xl"></div>
             <img
-              src="/placeholder.svg?height=500&width=400&text=Estudio+del+Artista"
+              src="https://ik.imagekit.io/hi0ocsyfm/steven.png?updatedAt=1754368934803"
               alt="Estudio del artista"
-              className="relative z-10 w-full h-auto rounded-lg shadow-2xl border border-electric-blue/30"
+              className="relative z-10 w-full h-auto max-w-xs sm:max-w-sm md:max-w-md mx-auto rounded-lg shadow-2xl border border-electric-blue/30"
             />
           </div>
         </div>
