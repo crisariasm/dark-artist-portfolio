@@ -87,13 +87,13 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Filosofía */}
+      {/* Sentir y Crear */}
       <section className="py-12 sm:py-16 lg:py-20 bg-gradient-to-b from-black to-electric-blue/5">
         <div className="container mx-auto px-4 text-center">
           <div className="flex flex-col sm:flex-row items-center justify-center mb-6 gap-2 sm:gap-4">
             <Eye className="w-6 h-6 sm:w-8 sm:h-8 text-electric-red" />
             <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-electric-blue font-typewriter tracking-wider">
-              FILOSOFÍA ARTÍSTICA
+              SENTIR Y CREAR
             </h2>
           </div>
           <blockquote className="text-base sm:text-lg lg:text-xl text-gray-300 leading-relaxed font-typewriter max-w-4xl mx-auto">
